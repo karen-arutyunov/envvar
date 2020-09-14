@@ -1,0 +1,7 @@
+: basics
+:
+$* >>EOO
+BUILD2_VAR_OVR='!config.abc.xyz = {A B C}
+!config.xyz.abc = ('X"Y"Z)
+'
+EOO
