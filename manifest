@@ -2,7 +2,7 @@
 name: envvar
 version: 0.1.0-a.0.z
 summary: envvar C++ executable
-license: other: proprietary ; Not free/open source.
+license: other: proprietary ; Not free/open source
 description-file: README.md
 url: https://example.org/envvar
 email: karen@codesynthesis.com
