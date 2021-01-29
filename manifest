@@ -9,3 +9,4 @@ email: karen@codesynthesis.com
 depends: * build2 >= 0.13.0
 depends: * bpkg >= 0.13.0
 depends: libbutl >= 0.13.0
+
